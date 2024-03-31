@@ -1,0 +1,20 @@
+body {
+    background-color: darkslategray;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+header {
+    background-color: rgb(30, 30, 30);
+    color: azure;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer {
+    text-align: center;
+    padding-top: 10px;
+}
